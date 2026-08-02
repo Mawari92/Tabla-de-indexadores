@@ -1,0 +1,6 @@
+{
+  "name": "Indexer Canvas Studio",
+  "description": "Tabla de Miembros Indexadores - Editor y exportador PNG de registros de indexadores",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,4 +1,4 @@
-##Hecho con amor para el Barrio Nueva Barcelona 
+## Hecho con amor para el Barrio Nueva Barcelona 
 <img width="2360" height="2178" alt="indexadores-julio-2026" src="https://github.com/user-attachments/assets/1a1f1200-7ccd-4886-bc79-aebdc9850d58" />
 
 

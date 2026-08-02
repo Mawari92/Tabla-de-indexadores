@@ -1,5 +1,12 @@
 ## Hecho con amor para el Barrio Nueva Barcelona 
-<img width="2360" height="2178" alt="indexadores-julio-2026" src="https://github.com/user-attachments/assets/1a1f1200-7ccd-4886-bc79-aebdc9850d58" />
+<div style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px; box-sizing: border-box;">
+  <img 
+    alt="indexadores-julio-2026" 
+    src="https://github.com/user-attachments/assets/1a1f1200-7ccd-4886-bc79-aebdc9850d58" 
+    style="width: 100%; height: auto; display: block; object-fit: contain;"
+  />
+</div>
+
 
 
 ## Development

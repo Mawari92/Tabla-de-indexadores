@@ -11,7 +11,7 @@
 ## Descargar la imagen
 
   <!-- Enlace Estilizado como Botón (Compatible con GitHub Pages) -->
-  <a href="https://github.com" download="indexadores-julio-2026.png" style="
+ <a href="https://github.com/user-attachments/assets/ddc0e20b-e284-4139-861c-99ce3e8d2b53" download="indexadores-julio-2026.png" style="
     display: inline-block;
     padding: 12px 24px; 
     background-color: #0969da; 
@@ -26,8 +26,7 @@
     box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
   ">
     💾 Descargar Imagen
-  </a>
-</div>
+</a>
 
 
 

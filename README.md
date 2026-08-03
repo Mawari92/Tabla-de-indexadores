@@ -1,4 +1,4 @@
-## Hecho con amor para el Barrio Nueva Barcelona 
+## Barrio Nueva Barcelona 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px; box-sizing: border-box;">
   <img 
     alt="indexadores-julio-2026" 

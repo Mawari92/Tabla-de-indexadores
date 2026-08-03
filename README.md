@@ -1,9 +1,20 @@
 ## Descarga la Imagen 
 
+<img 
+  alt="indexadores-julio-2026" 
+  src="https://github.com/user-attachments/assets/ddc0e20b-e284-4139-861c-99ce3e8d2b53" 
+  style="max-width: 100%; height: auto; display: block; margin: 0 auto;" 
+/>
+
+
+
+## Descargar la imagen
+
+## Barrio Nueva Barcelona
 <div style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 15px; box-sizing: border-box;">
   <img 
     alt="indexadores-julio-2026" 
-    src="https://github.com" 
+    src="[https://github.com](https://github.com/user-attachments/assets/ddc0e20b-e284-4139-861c-99ce3e8d2b53)" 
     style="width: 100%; height: auto; display: block; object-fit: contain; margin-bottom: 20px;"
   />
   
